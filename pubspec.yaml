@@ -30,7 +30,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.6
   shake: ^2.2.0
   velocity_x: ^4.2.0
   flutter_native_splash: ^2.4.0
